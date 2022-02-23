@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another declaration of the Lords and Commons assembled in Parliament concerning subscriptions for bringing in money, plate, and horses together with additions to the former instructions for deputy lievtenants ... as also the copy of a letter sent to Master William Crofts at the Hague by Master Henry Wilmot ... and a letter from the Earle of Warwick to Mr. John Pym ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37632</idno>
+            <idno type="STC">Wing E1217</idno>
+            <idno type="STC">ESTC R29998</idno>
+            <idno type="EEBO-CITATION">11231017</idno>
+            <idno type="OCLC">ocm 11231017</idno>
+            <idno type="VID">46979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another declaration of the Lords and Commons assembled in Parliament concerning subscriptions for bringing in money, plate, and horses together with additions to the former instructions for deputy lievtenants ... as also the copy of a letter sent to Master William Crofts at the Hague by Master Henry Wilmot ... and a letter from the Earle of Warwick to Mr. John Pym ...</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>Rochester, Henry Wilmot, Earl of, 1612?-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Allen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>7 July, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain --  To 1688.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46979:1"/>
+            <pb facs="tcp:46979:1" rendition="simple:additions"/>
+            <p>ANOTHER DECLARATION OF THE LORDS AND COMMONS Aſſembled in Parliament: Concerning Subſcriptions for bringing in Money, Plate, and Horſes. Together with Additions to the former inſtructions for Deputy Lievtenants. With a Declaration likewiſe from them, concerning the publiſhing of divers Proclamations and papers in formes of Procla<g ref="char:EOLhyphen"/>mations, in his Majeſties name. As alſo the Copy of a Letter ſent to Maſter <hi>William Crofts,</hi> at the Hague, by Maſter <hi>Henry Wilmot,</hi> but intercepted at Sea by one of the Ships in his Majeſties ſervice, and ſent to the Lord Admirall, and delivered to the Commons by the Lords, at a conference of both Houſes. With the ſubſtance of two Letters from <hi>Rotterdam,</hi> 4. <hi>Iuly, Stilo novo,</hi> 1642. And a Letter from the Earle of <hi>Warwick</hi> to Mr. <hi>Iohn Pym</hi> 
+               <abbr>Eſq</abbr> and preſented to both Houſes of Parliament, July 6. 1642.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Ordered to be forthwith publiſhed and printed.</hi> 
+                  </p>
+                  <closer>
+                     <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>N. Allen,</hi> 7. July, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:46979:2"/>
+            <head>A Let<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſent from the Earle of <hi>Warwick</hi> to Mr. <hi>Pym.</hi>
+            </head>
+            <opener>
+               <salute>Mr. Pym,</salute>
+            </opener>
+            <p>BEfore theſe ſhall come to your hand I make no doubt but Mr. <hi>Nichols</hi> of the Houſe of Commons hath made both Houſes a Relation of what hath paſſed here ſince I recei<g ref="char:EOLhyphen"/>ved His Majeſties Letters for the diſcharging me of the command of the Fleet where<g ref="char:EOLhyphen"/>with I was entruſted, how I called a Councell of War, and acqainted them with his Majeſties Letters, and likewiſe with the Ordinance of Parliament, ſent from the Houſes for me t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continue my charge: I confeſſe it was a great ſtrait that I was put in, between two com<g ref="char:EOLhyphen"/>mands that have ſo much power over me: but when I conſider tho great care which I have ever obſerved in the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliaments of this Kingdome for the good and ſafety of the King and King<g ref="char:EOLhyphen"/>dome, and every mans particular in them; and that they are that great Councell by whoſe au<g ref="char:EOLhyphen"/>thority the Kings of England have ever ſpoken to their Subjects; and likewiſe that the truſt of his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leet for the d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fence of his Majeſty and the Kingdomes was committed to me by them; and knowing the integrity of my owne heart to his Majeſtie and Parliament, I reſolved not to deſert tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charge committed to my truſt, wherein God (bleſſed be his name for it) hath made me hitherto ſo ſucceſſefull, but to continue it untill J ſhall be revoked by that authority that hath intruſted me with it; which having declared to my Captaines at the Councell of War, all of them unanimouſly and cheerfully tooke the ſame Reſolution, excepting five, which was the Rere-Admirall, Captaine <hi>Fogge,</hi> Captaine <hi>Barley,</hi> Captaine <hi>Slingsby,</hi> and Captaine <hi>Wake,</hi> all which five refuſed to come upon my ſummons, as having no authority over them, and got together round that night to make their defence againſt me, onely Captaine <hi>Burley</hi> came in and ſubmitted to me. Whereupon in the morning I weighed my Anchors, and cauſed the reſt of my Ships ſo to doe, and came to an anchor round about them, and beſieged them, and when I had made all things ready, I ſummoned them.</p>
+            <p>Sir <hi>Iohn Mennes</hi> and Captaine <hi>Fogge,</hi> came in to me: but Captaine <hi>Slingsby,</hi> and Captain <hi>Wake</hi> ſtood out: Whereupon I let flye a Gun over them, and ſent them word, I had turn'd up the Glaſſe upon them: if in that ſpace they came not in, they muſt looke for mee a<g ref="char:EOLhyphen"/>boord them. I ſent to them by my Boat, and moſt of the Boats in the Fleet. Their anſwer was ſo peremptory, that my Maſters and Saylors grew ſo impatient on them, that although they had no Armes in their Boats at all, yet God gave them ſuch courage and reſolution, as in a moment they entred them, tooke hold on their Shrouds, and ſeized upon theſe Captaines, being armed with their Piſtols and Swords, and ſtrucke their Yards and Top-maſts, and brought them both in to me. The like courage and reſolution was never ſeen amongſt unarmed men, ſo as all was ended without effuſion of blood, which I muſt attribute to the great God of Hea<g ref="char:EOLhyphen"/>ven and earth only, who in the moment that I was ready to give fire on them, put ſuch courage into our men to act it, and ſo ſaved much blood.</p>
+            <p>I hope the Parliament will think of ſome courſe for all our indemnities, and eſpecially for the Officers of the Navie, and principally for the Surveyor of the Navie, my Vice-Admirall, a ve<g ref="char:EOLhyphen"/>ry able and good man. For my ſelfe, I doubt not but they that put me in this imployment, will preſerve me for ſerving them faithfully.</p>
+            <p>I pray you Sir, be a means to Sir <hi>Robert Pye</hi> and Mr. <hi>Green,</hi> that ſome money may bee ſent us, for it hath been often promiſed, but heare not of it. The weather continuing ſtormy ſo long together, that we spend our Maſts, and top Maſts, or ſome detriment or other falls upon us daily, ſo that we are in great extremity for want of money.</p>
+            <p>Thus, having nothing elſe to trouble you for the preſent, onely that you will be pleaſed to acquaint your Houſe of Commons with our proceedings here, I bid you farewell, and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your aſſured friend to ſerve you,</hi> Warwick.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:46979:2"/>
+            <head>Inſtructions for Deputy Lievtenants, which are Members of the Houſe of Commons, and other Liev<g ref="char:EOLhyphen"/>tenants of ſeverall Counties, concerning the laſt PROPOSITIONS. <hi>Together with the Names of the Commiſſaries, who are to inroll and value the Horſes and Armes according to the Propoſitions.</hi>
+            </head>
+            <p>THat the Deputy Lievtenants of each County, which are Members of the Houſe, ſhall have authority to tender the Propoſitions to the other Deputy Lievtenants of the ſame County; and take their Subſcriptions, and all ſuch Deputy Lievte<g ref="char:EOLhyphen"/>nants, or any two of them, as ſhall ſubſcribe according to the Pro<g ref="char:EOLhyphen"/>poſitions, ſhall have authority to aſſemble and call together all ſuch perſons as they ſhall thinke fit, and to tender thoſe Propoſitions to all ſuch Perſons as ſhall be preſent, or to any perſons within their Coun<g ref="char:EOLhyphen"/>ties reſpectively, and receive their Subſcriptions. And the ſaid De<g ref="char:EOLhyphen"/>puty Lievtenants, or any two of them, ſhall have authority to name ſuch, and ſo many Perſons as they ſhall thinke fit to aſſemble, and call together every perſon, or to repaire to their ſeverall houſes, or dwellings, within their reſpective Counties, and to take their Sub<g ref="char:EOLhyphen"/>ſcriptions; which ſubſcriptions are by them to bee returned to ſuch perſons as ſhall be appointed Receivers in the reſpective Counties, who ſhall from time to time certifie the ſummes, values or proporti<g ref="char:EOLhyphen"/>ons of ſuch ſubſcriptions to the Treaſurers of London.</p>
+            <p>The ſaid Deputy Lievtenants, or the greater part of them, ſhall have power to name Receivers in their Counties, and all ſuch as ſhall either before or after their ſubſcriptions, pay or bring in any Money or Plate, ſhall deliver the ſame to ſuch perſon or perſons as ſhall be appointed to the ſaid Deputy Lievtenants, or the greater part of them, under their hands to be Receivers, which the ſaid perſons ſo appoin<g ref="char:EOLhyphen"/>ted, ſhall cauſe to be delivered to the Treaſurers in London, named in the ſaid Propoſitions; and ſhall receive Acquittances from the ſaid Treaſurers, in the name, and to the uſe of the ſeverall perſons from whom they ſhall receive ſuch money or plate, and ſhall deliver
+<pb facs="tcp:46979:3"/> ſuch Acquittances to the ſeverall perſons to whom they doe belong: And all ſuch as make ſuch returnes of Money or Plate, ſhall receive reaſonable allowance from the Treaſurers for the ſame, according to their diſcretions.</p>
+            <p>All that finde Horſes, ſhall preſently ſend them up to <hi>London,</hi> ac<g ref="char:EOLhyphen"/>cording to the Propoſitions.</p>
+            <p>In thoſe Counties where no Commiſſions are iſſued to thoſe that were nominated for Deputy Lieutenants, or none have been nomi<g ref="char:EOLhyphen"/>nated, there the ſame Authority to be given to ſuch Juſtices of the Peace, or other Gentlemen of thoſe Counties, which ſhall be named by the Knights and Burgeſſes of thoſe Counties, and approved by both Houſes, as is to the Deputy Lieutenants in the firſt inſtruction.</p>
+            <p>That the time of notice ſhall be taken, to be from the time that e<g ref="char:EOLhyphen"/>very man hears the Propoſition firſt read by the Authority aforeſaid.</p>
+            <p>It is ordered that Captaine <hi>Barrell,</hi> Maſter <hi>Lloyd, Iohn Smith</hi> of <hi>London,</hi> Gent', and <hi>Francis Dowſett</hi> of <hi>London,</hi> Gent', be Commiſ<g ref="char:EOLhyphen"/>ſaries to Inroll and value the Horſes and Armes, to be raiſed accor<g ref="char:EOLhyphen"/>ding to the Propoſitions.</p>
+         </div>
+         <div type="part">
+            <head>ADDITIONS.</head>
+            <p>THat any one or more, already allowed by both Houſes of Parliament, to be a Deputy Lieutenant or Deputy Lieute<g ref="char:EOLhyphen"/>nants in any County, or any other two perſons or more in every County, City, or Borough, which ſhall be approved by both Houſes, ſhall have power to put the Propoſitions in execution, in all points according to the former Inſtructions.</p>
+            <p>That the Knights, Citizens, and Burgeſſes of the ſeverall Coun<g ref="char:EOLhyphen"/>ties, Cities, and Boroughs within this Realme, be required with all ſpeed to commend theſe Propoſitions to their ſeverall Counties, Cities, and Boroughs reſpectively, to be put in execution.</p>
+            <p>That the perſons aforeſaid may have power to name one or more in each County, to take the ſubſcriptions of thoſe who will prepare Horſes in readineſſe for the ends propoſed in the Propoſitions; and to inroll them, and appoint Officers, and from time to time to view
+<pb facs="tcp:46979:3"/> them, and to ſee they be compleatly armed, and exerciſed in the re<g ref="char:EOLhyphen"/>ſpective Counties.</p>
+            <p>That whoſoever ſhall bring in one or more Horſes without Arms, or Money to finde them, may have his or their Horſes valued, and liſted by ſuch as are appointed in the reſpective Counties, the owners of thoſe Horſes ingaging themſelves to bring them in for the ſervice of the Common-wealth, when they ſhall be required by any Au<g ref="char:EOLhyphen"/>thority to that purpoſe by both Houſes of Parliament.</p>
+            <p>That all ſuch Horſes as are ſubſcribed by the Members of either Houſe, or by the Citizens of London, may be ſhewed and inrolled by Saturday next, the ninth of July inſtant, that they may be divided into Troopes, and trained.</p>
+         </div>
+         <div type="part">
+            <head>A Declaration of the LORDS and COMMONS aſſembled in PARLIAMENT.</head>
+            <p>VVHereas queſtion hath been made, by ſome perſons, whether the time for ſubſcriptions of Horſe, Money and plate, according to Propoſitions lately publiſhed by the Lords and Commons in Parliament, were not limitted to fourteen dayes after notice given to all within the City of <hi>London,</hi> and ſixty miles diſtant from the ſaid City; The Lords and Commons doe declare, That they did not preſcribe any time for ſuch ſubſcriptions, but onely deſire, ſuch as were within the ſaid City, or with<g ref="char:EOLhyphen"/>in ſuch a diſtance, to haſten the bringing in money, plate, and horſes, as much conducing to that ſervice. And they doe further declare, that who<g ref="char:EOLhyphen"/>ſoever ſhall yet bring in money plate, or horſes, or ſubſcribe to bring in any money, plate, or Horſes, according to the ſaid propoſitions, and to the ends therein mentioned, ſhall doe an acceptable ſervice to the common<g ref="char:EOLhyphen"/>wealth and ſhall have the ſame conſideration conditions and protection, as is expreſſed in thoſe Propoſitions, onely it is ſtill deſired, that it may be done with all convenient ſpeed.</p>
+         </div>
+         <div type="part">
+            <head>A Declaration of the Lords and Commons aſſembled in Parliament, Concerning the publiſh<g ref="char:EOLhyphen"/>ing of divers Proclamations, and Papers, in forms of Proclamations in His Majeſties Name.</head>
+            <p>VVHereas ſeverall Proclamations, Declarations, and Papers, in forms of Proclamations, have iſſued out in His Majeſties Name,
+<pb facs="tcp:46979:4"/> commanding Parſons, Vicars, Curates, Sheriffs, Mayors, Bayliffs, and other Officers, to publiſh and proclaim the ſame, being contrary to Law, and to dvers Orders, Ordinances, and Declarations of both Houſes of Parliament, and much to the ſcandall and derogation of both the ſayd Houſes.</p>
+            <p>Be it Ordered and declared by the Lords and Commons in Parliament, That no Sheriff, Major, Bayliff, Parſon, Vicar, Curate, or other Officer, ſhall from henceforth publiſh or proclaim, or cauſe to be proclaimed or pub<g ref="char:EOLhyphen"/>liſhed, any ſuch Proclamations, Declarations or Papers which are or ſhall be contrary to any Oorder, Ordinance, or Declarations of the ſaid Houſes of Parliament, or tending to the ſcandall or derogation of their proceedings, but ſhall uſe all lawfull waies and means to reſtrain and hin<g ref="char:EOLhyphen"/>der the proclaiming and publiſhing thereof. And all Sheriffs, Majors, Bayliffs, Parſons, Vicars, and Curates, or other Officers that have for<g ref="char:EOLhyphen"/>born or refuſed, or ſhall forbear or refuſe to publiſh or proclaim any ſuch Proclamations, Declarations, or Papers as aforeſaid, or have or ſhall hinder the publication thereof, ſhall be protected by the power and authori<g ref="char:EOLhyphen"/>ty of both Houſes of Parliament.</p>
+            <p>
+               <hi>Ordered by the Commons in Parliament, That this be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elſing. Cler. Par. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>A Copy of Mr. <hi>Henry Wilmots</hi> Letter to Mr. <hi>William Crofts</hi> at the Hague, intercepted at Sea by one of the Ships in his Majeſties ſervice, and ſent up to the Lord Admirall, and was delivered to the Commons by the Lords at a conference of both Houſes.</head>
+            <p>AMongſt other Evidences of the diſpoſition and deſignes of thoſe in credit about the King and Queene, a Letter was intercepted at Sea by one of the Ships now in his Majeſties ſervice, and ſent up to the Lord Admirall, was delivered to the Commons by the Lords at a Conference of both Houſes, which was dated the two and twen<g ref="char:EOLhyphen"/>tieth of June, from <hi>Yorke,</hi> written by Mr. <hi>Henry Wilmot,</hi> one of thoſe who were privy to the conſpiracy of Mr. <hi>Iermin</hi> and others, about bringing up the Army the laſt yeare, and directed to Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam
+<pb facs="tcp:46979:4"/> Crofts</hi> a ſervant of the Queenes, by this Letter it appeares, that they have had often conferences of dividing the eſtates of the Par<g ref="char:EOLhyphen"/>liament men, and that this is the uſe they intend to make of the for<g ref="char:EOLhyphen"/>ces raiſed by his Majeſty: And that they are growne ſo bold upon his protection as to vilifie and deride the Parliament, &amp; not only to contemne their ſummons, but ſhamefully to abuſe their meſſenger with violence and ſcorne. Which Letter followeth in theſe words,
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>For Mr. <hi>Crofts</hi> at the Hague.</head>
+                     <opener>
+                        <salute>Dear <hi>Will,</hi>
+                        </salute>
+                     </opener>
+                     <p>BY theſe laſt Letters to the Queen, you will finde a great altera<g ref="char:EOLhyphen"/>tion of buſineſſe here; the King, that very lately appeared al<g ref="char:EOLhyphen"/>moſt abandoned by all his Subjects, is now become the Favourite of the Kingdome; yet I beleeve his enemies are not ſo neglected as not to be able to raiſe an Army to oppoſe him: and indeed here lies the jeſt, for they will bee followed juſt enough to forfeit their eſtates, which I have heard you often ſay, were better beſtowed on ſome of us. Yeſterday there came a meſſenger from the Houſe, who had Order, (and d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d raiſe the power of the County) to entreat <hi>Bartley, Aſhburnham,</hi> and my ſelfe, to come to ſpeake to the Houſe; but the King gave the meſſenger a ſhort anſwer, and an Officer or two gave him a ſhort Cudgell, ſo he is returned to Lon<g ref="char:EOLhyphen"/>don (<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>) with his arme in a ſcarfe. Deare <hi>Will,</hi> 
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> your good opinion, for I aſſure you I am,</p>
+                     <closer>
+                        <signed>
+                           <hi>Your moſt affectionate humble ſervant,</hi> H. Wilmot.</signed>
+                        <dateline>
+                           <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>. <hi>Yorke,</hi> 
+                           <date>
+                              <hi>1642.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>Pray if Mr.</hi> Iermin <hi>be with you, preſent my moſt humble ſervice to him.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elſyng Cler. Par. D. Com.</signed>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:46979:5" rendition="simple:additions"/>
+            <head>A letter from ROTTERDAM.</head>
+            <opener>
+               <salute>Worſhipfull Sir;</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Wrot to you on Tueſday laſt, by a Merchant that had a Paſſe to come over land: but leſt that ſhould not come to hand, though little hath happened here ſince, I cannot omit this Poſt. The ſhip Lyon that brought over Ladies of Honour, is now fitted to tranſport into England Prince <hi>Robert,</hi> Prince <hi>Maurice,</hi> Lord <hi>Digby,</hi> Lord <hi>Denby,</hi> Colonell <hi>Cockeram,</hi> Captaine <hi>Hyde, Oneale,</hi> Sir <hi>Lewis Dives,</hi> with <hi>80</hi> or <hi>90</hi> Cavaliers more: they have fitted themſelves with Armour of proofe, and all other accoutrements of war, they have been very merry, and have drunke many healths to their good voya<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: and in their Cups have made dividents of the Parliament mer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds: They are very jocund, and were all abroad yeſterday morning the winde being then faire, but held but a little ſpace, and now blowes very hard: ſo that God hath now ſtayed them. The <hi>Providence</hi> that lies at Brill, is to take in divers of them,: ſhee hath taken much of their luggage, with two great G<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, each <hi>12.</hi> foot long, and ſhoot a Bullet of <hi>44.</hi> pounds. Alſo the Lion at Hel<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rd Sluce, hath taken in much luggage. There are three Boyes or <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lying at Taſſell, laden with Armes, and <hi>38.</hi> Caſes of Armour, ſhipped in <hi>Richard Lyndall</hi> of Hull, bound for London, I heare they be all Muskets, and there are in that ſhip <hi>700.</hi> C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſlets. Beſides this, I was told by one, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Cuſtome-houſe, all theſe ſhipped here by a warrant which they had <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for <hi>700</hi> Caſes, which a Mer<g ref="char:EOLhyphen"/>chant in this Towne ſaw and told; he, beſides <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Cuſtome-houſe, did con<g ref="char:EOLhyphen"/>feſſe it true.</p>
+            <p>They give out divers reports of ſtaying of armes, and of their declining their voyage. But wee knowing their endeavour to worke with all deceivableneſſe, think them onely tricks to confound our intelligence; for we ſee <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch as are laden here, are not ſtayed. Indeed for certaine, the States Generall have given out a warrant of ſtay for armes; But ſo they did when all the armes provided againſt the Scots were tranſported; the Officers are corrupted, There is a Boyer lying within a mile of this Towne to be frauthed with horſe for <hi>P. Robert,</hi> a Merchant of this Towne ſaw the Shippers Charter party, which is, that he carry them to what part ſhall be appointed by him betweene Dover, and Newcaſtle; The Prince under<g ref="char:EOLhyphen"/>takes his ſafe-convoy out, and home, and <hi>Iſaack Light</hi> a Merchant of the Com<g ref="char:EOLhyphen"/>pany here, hath bought <hi>600.</hi> pounds worth of powder, and much match, where it is ſhipped, we canot yet hear; they work with much privacy. Monday laſt, there came a Jewel from the Hage valewed at <hi>40000.</hi> Guilders by the Jewellers, they were offered <hi>10000.</hi> Guilders upon it, but would not, and ſo it was retuned againe. We cannot hear of any further pawning of the jewels, nor where they be. Maſter <hi>Web<g ref="char:EOLhyphen"/>ſter</hi> went with Sir <hi>William Boſwell</hi> to the Queene Monday laſt. Tuſeday laſt was ſevenight at <hi>12.</hi> a clocke in the night Maſter <hi>Piercy,</hi> Maſter <hi>Germin,</hi> Maſter <hi>W. Montague,</hi> and <hi>Davenant,</hi> came into the Hague with the Queenes Coach, and Footmen, this I was told by one Maſter The Cavaleirs doe boaſt: that having a ſhip of <hi>40.</hi> peeces of Ordnance, and another of <hi>16</hi> Peeces, that is the reſolution of Captaine <hi>Strachin,</hi> Captaine of the Providence; yeſterday at Hel<g ref="char:EOLhyphen"/>leford Sluice arrived <hi>Guſtavus Horn</hi> with the happy entrance of the King, J hope the Captaine of her, will not do as the Captaine of the Lyon; This being all of any moment that we heare here, I humbly take my leave and reſt.</p>
+            <closer>
+               <signed>
+                  <hi>Yours to comman<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:46979:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
